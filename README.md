@@ -21,3 +21,4 @@ Please write the lanauges that you want to learn (Please write natural language 
 # List of Languages
 - Vietnamese
 - Arabic
+- Sanskrit
