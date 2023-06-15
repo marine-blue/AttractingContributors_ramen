@@ -22,3 +22,4 @@ Please write the lanauges that you want to learn (Please write natural language 
 - Vietnamese
 - Arabic
 - Sanskrit
+- Proto-Indo-European
