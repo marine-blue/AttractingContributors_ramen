@@ -26,3 +26,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 3. miso
 4. tukemen
 5. Korean Ramen
+6. shoyu
