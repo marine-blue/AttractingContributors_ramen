@@ -24,3 +24,4 @@ Please write the lanauges that you want to learn (Please write natural language 
 - Sanskrit
 - Proto-Indo-European
 - English
+- German
