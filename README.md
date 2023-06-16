@@ -23,5 +23,6 @@ Please write the lanauges that you want to learn (Please write natural language 
 - Arabic
 - Sanskrit
 - Proto-Indo-European
-- English  
+- English
+- German  
 - Chinese
