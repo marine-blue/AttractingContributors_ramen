@@ -26,3 +26,4 @@ Please write the lanauges that you want to learn (Please write natural language 
 - English
 - German  
 - Chinese
+- Japanese
