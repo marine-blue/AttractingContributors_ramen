@@ -21,3 +21,4 @@ Please add your favorite kind of ramen.
 7. tonkotsu
 8. Mom's Ramen
 9. Sio
+10. Spicy Ramen
